@@ -1,3 +1,0 @@
-git clone клонировать удаленный репозиторий
-git branch просмотр веток
-git push origin master слить ветку на репозиторий
